@@ -1,0 +1,17 @@
+﻿Build started 08/04/2016 11:31:28.
+     1>Project "F:\Dropbox\Mestrado em Ciências da Computação\Bússola Visual\BussulaVisual - VIsual Studio Project with Ceemple\BussulaVisual\BussulaVisual.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Ceemple\OpenCV4VS\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(354): warning C4101: 'e' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Dropbox\Mestrado em Ciências da Computação\Bússola Visual\BussulaVisual - VIsual Studio Project with Ceemple\x64\Release\BussulaVisual.exe" /NOLOGO /LIBPATH:C:\Ceemple\OpenCV4VS\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib StatTimer.lib clBLAS.lib clFFT.lib opencv_calib3d300.lib opencv_core300.lib opencv_cuda300.lib opencv_cudaarithm300.lib opencv_cudabgsegm300.lib opencv_cudacodec300.lib opencv_cudafeatures2d300.lib opencv_cudafilters300.lib opencv_cudaimgproc300.lib opencv_cudalegacy300.lib opencv_cudaoptflow300.lib opencv_cudastereo300.lib opencv_cudawarping300.lib opencv_cudev300.lib opencv_features2d300.lib opencv_flann300.lib opencv_highgui300.lib opencv_imgcodecs300.lib opencv_imgproc300.lib opencv_ml300.lib opencv_objdetect300.lib opencv_photo300.lib opencv_shape300.lib opencv_stitching300.lib opencv_superres300.lib opencv_ts300.lib opencv_video300.lib opencv_videoio300.lib opencv_videostab300.lib opengl32.lib glu32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Dropbox\Mestrado em Ciências da Computação\Bússola Visual\BussulaVisual - VIsual Studio Project with Ceemple\x64\Release\BussulaVisual.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Dropbox\Mestrado em Ciências da Computação\Bússola Visual\BussulaVisual - VIsual Studio Project with Ceemple\x64\Release\BussulaVisual.lib" /MACHINE:X64 x64\Release\main.obj
+         x64\Release\MyPixelInfo.obj
+         Generating code
+         Finished generating code
+         BussulaVisual.vcxproj -> F:\Dropbox\Mestrado em Ciências da Computação\Bússola Visual\BussulaVisual - VIsual Studio Project with Ceemple\x64\Release\BussulaVisual.exe
+     1>Done Building Project "F:\Dropbox\Mestrado em Ciências da Computação\Bússola Visual\BussulaVisual - VIsual Studio Project with Ceemple\BussulaVisual\BussulaVisual.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:27.46
